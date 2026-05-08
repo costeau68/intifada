@@ -6,14 +6,20 @@ go-to: post_event if started = 1; start_menu if started = 0
 new-page: true
 go-to: start_menu_2
 
-= Social Democracy: An Alternate History
+= Intifada: An Alternate History
 
 @start_menu_2
 
 - @start: Start game
+- @infotext: Intifada (Explanation for new players)
 - @election_simulation: Election simulation
 - @credits: Credits
 - @game_over.achievements
+
+@infotext
+
+Intifada: An Alternate History is a WIP conversion mod for the game Social Democracy by Autumn Chen, itself a mod of the game Social Democracy by Autumn Chen. This mod is meant to put a spin on the <span style="color: #c00000;">Social Democracy</span> "genre" by putting the player in the shoes of   <span style="color: #149954;">Palestine Liberation Organization</span> member <span style="color: #FFD700;">Fatah</span>, officially the <span style="color: #FFD700;">Palestine National Liberation Movement</span>.
+
 
 
 @start
