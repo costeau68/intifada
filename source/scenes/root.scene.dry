@@ -20,13 +20,13 @@ go-to: start_menu_2
 
 Intifada: An Alternate History is a WIP conversion mod for the game Social Democracy by Autumn Chen, itself a mod of the game Social Democracy by Autumn Chen. This mod is meant to put a spin on the <span style="color: #c00000;">Social Democracy</span> "genre" by putting the player in the shoes of <span style="color: #149954;">Palestine Liberation Organization</span> member <span style="color: #FFD700;">Fatah</span>, officially the <span style="color: #FFD700;">Palestine National Liberation Movement</span>.
 
-Regardless of real-life connotations about <span style="color: #FFD700;">Fatah</span> and their actions, I thought this party would be a good crossover from the setting of Weimar Germany to the post-1948 situation in <span style="color: #005EB8;">Israel</span> (and/or) <span style="color: #005EB8;">Palestine</span>. The goal, obviously, must change compared to the original game, seeing the difference in setting. 
+Regardless of real-life connotations about <span style="color: #FFD700;">Fatah</span> and their actions, I thought this party would be a good crossover from the setting of Weimar Germany to the post-1948 situation in <span style="color: #005EB8;">Israel</span> (and/or) <span style="color: #149954;">Palestine</span>. The goal, obviously, must change compared to the original game, seeing the difference in setting. 
 
-Factions are distinct in their attitudes towards militancy, radicalism, etc.
+Factions are distinct in their attitudes towards militancy, radicalism, etc. The internal situation in this game is primarily based on attitudes towards <span style="color: #005EB8;">Israel</span> and it's government.
 
 I want to emphasize the noob factor of this in that **I have not made a full fledged mod before**. Not on Github, not for this game, so please be patient. Bugs should probably be expected, and it would be helpful if you reported them to me (Discord: veteresdoctrinae). 
 
-Finally - this is fiction, and alternate history. Not everything can line up totally with reality and I've come to accept that, though general seriousness and realism is still something I want to maintain
+Finally - this is fiction, and alternate history. Not everything can line up totally with reality and I've come to accept that, though general seriousness and realism is still something I want to maintain. Again, feedback appreciated!
 @start
 on-arrival: {!
 Q.started = 1;
